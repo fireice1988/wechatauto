@@ -1,0 +1,31 @@
+IP:122.112.239.237
+
+appid: wxa1dfa80c5e72a3c5
+appkey: 7d773a002a8dad7793edfbce844e0e4a
+
+EcodingSESKey:iDlO7awDN8kGXaCeV2Ib7GiVBepPrtQbwKFUdpLB5Wy
+
+
+APIURL: http://www.tuling123.com/openapi/api
+APIKEY : 0077b4535a79471983b92792eeb43f3a
+
+
+URL:http://122.112.239.237:80/wx
+
+
+{
+	"token": "zongzi",
+	"appid": "wxa1dfa80c5e72a3c5",
+	"secret": "7d773a002a8dad7793edfbce844e0e4a",
+	"mode": "normal",
+
+	"mongo_db": "green",
+
+	"max_host_count": 5,
+
+	"auto_reply": "yes",
+	"tuling_key": "0077b4535a79471983b92792eeb43f3a",
+    "tuling_url": "http://www.tuling123.com/openapi/api",
+
+    "type": "subscribe"
+}
