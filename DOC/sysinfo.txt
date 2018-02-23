@@ -29,3 +29,5 @@ URL:http://122.112.239.237:80/wx
 
     "type": "subscribe"
 }
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'zzz5658240' WITH GRANT OPTION;
